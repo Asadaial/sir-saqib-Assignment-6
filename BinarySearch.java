@@ -31,3 +31,6 @@ public class BinarySearch
 
 
 //A commtent
+
+
+//javascript is better than java
